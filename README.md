@@ -12,11 +12,20 @@ An independent developer from Ukraine. I build small, useful apps and tools and 
 [Website](https://shotleaf.syvyj.dev) · [Download](https://github.com/Syvyj/shotleaf/releases/latest/download/Shotleaf.dmg)
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/Syvyj/prymorsk-chronicle"><img src="assets/prymorsk.jpg" alt="Prymorsk. A Community Chronicle"></a>
+
+**[Prymorsk. A Community Chronicle](https://github.com/Syvyj/prymorsk-chronicle)**: 9,700 news items from 2004–2022 about a town on the Sea of Azov, under occupation since 2022, rescued from web archives into one chronicle to read and search. Python, Cloudflare Workers.<br>
+[Read the chronicle](https://prym.mydom.website)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/Syvyj/studios_4lampa"><img src="assets/likhtar.jpg" alt="Likhtar"></a>
 
 **[Likhtar](https://github.com/Syvyj/studios_4lampa)**: a custom home screen for the Lampa media app, with catalogues of streaming services from TMDB.<br>
 [Install](https://github.com/Syvyj/studios_4lampa#readme)
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -42,11 +51,20 @@ If my apps save you time, you can support them on [Ko-fi](https://ko-fi.com/syvy
 [Сайт](https://shotleaf.syvyj.dev/uk/) · [Завантажити](https://github.com/Syvyj/shotleaf/releases/latest/download/Shotleaf.dmg)
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/Syvyj/prymorsk-chronicle"><img src="assets/prymorsk.jpg" alt="Приморськ. Хроніка громади"></a>
+
+**[Приморськ. Хроніка громади](https://github.com/Syvyj/prymorsk-chronicle)**: 9 700 новин 2004–2022 років про місто на Азовському морі, яке з 2022 року в окупації. Повернуто з вебархівів в одну хроніку, яку можна читати й шукати. Python, Cloudflare Workers.<br>
+[Читати хроніку](https://prym.mydom.website)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/Syvyj/studios_4lampa"><img src="assets/likhtar.jpg" alt="Ліхтар"></a>
 
 **[Ліхтар](https://github.com/Syvyj/studios_4lampa)**: кастомна головна сторінка для Lampa з каталогами стрімінгових сервісів із TMDB.<br>
 [Встановити](https://github.com/Syvyj/studios_4lampa#readme)
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
